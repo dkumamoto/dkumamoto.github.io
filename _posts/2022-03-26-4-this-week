@@ -9,4 +9,6 @@ I'm not seeing many good examples (not that I have looked hard about it), but wa
 
 Why would I know about something about this in the first place? Because I used to work for a company that was called Applicon, renamed as Schlumberger CAD/CAM.
 
-Here's a simple example of 
+Here's a simple example of dragging around and drawing the movement [Drag example #3](https://github.com/dkumamoto/flutter-drag-3).
+
+In looking for the original examples I started with, I also found gesture password article, which lead me to: [Flutter gesture password package] (https://github.com/yubo725/flutter-gesture-password)
