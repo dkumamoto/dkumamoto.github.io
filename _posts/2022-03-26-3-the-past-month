@@ -9,4 +9,11 @@ So, I've started working on my own project trying to figure how to create a deve
 
 I thought that learning drag and drop was important so I googled and found a good example: an answer to [How to move a widget in the screen in Flutter](https://stackoverflow.com/a/63845607).
 
-My working example can be found here:
+My working example can be found here: [Drag1](https://github.com/dkumamoto/flutter-drag-and-drop-1)
+
+I also wanted to learn how to do long press and then drag, so I made minor changes:
+1. Instead of clicking and dragging, you now have to press and hold before you can drag anything
+2. The target box now drag and droppable, too.
+
+[Drag2](https://github.com/dkumamoto/flutter-drag-and-drop-2)
+
