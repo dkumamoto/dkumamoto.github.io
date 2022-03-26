@@ -1,0 +1,12 @@
+---
+layout: post
+title: Learning Flutter/Dart, part 2
+---
+
+After spending few hours going over the 2 courses mentioned in the previous post, I also looked at few videos on tube and didn't find anything all that much better.
+
+So, I've started working on my own project trying to figure how to create a development environment in Flutter.
+
+I thought that learning drag and drop was important so I googled and found a good example: an answer to [How to move a widget in the screen in Flutter](https://stackoverflow.com/a/63845607).
+
+My working example can be found here:
