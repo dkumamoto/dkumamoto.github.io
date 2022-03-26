@@ -1,0 +1,12 @@
+---
+layout: post
+title: Learning Flutter/Dart, part 3
+---
+
+This week, I've been working on how to detect gesture movements so that inputs via gesture can get recognized as commands.
+
+I'm not seeing many good examples (not that I have looked hard about it), but was pretty common in CAD/CAM software as demo'ed in [Applicon CAD System with Trainable Hand-Drawn Symbol Recognition](https://www.youtube.com/watch?v=12BfpFOq6W4).
+
+Why would I know about something about this in the first place? Because I used to work for a company that was called Applicon, renamed as Schlumberger CAD/CAM.
+
+Here's a simple example of 
