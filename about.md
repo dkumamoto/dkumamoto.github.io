@@ -4,7 +4,7 @@ title: About Danny Kumamoto
 permalink: /about/
 ---
 
-I am a software developer with focus on Cross-Platform Development.  Currently working as Xamarin software engineer but learning flutter on my free time.
+I am a software developer with focus on Cross-Platform Development.  Currently working as Xamarin software engineer but learning [flutter](https://flutter.dev/) on my free time.
 
 ### More Information
 
