@@ -14,8 +14,7 @@ This lead me to take up Computer Science (CS) in college and even ended up with 
 
 I started working professionally in 1987 working on PDP-11 and VAX.  And I did all kinds of software related jobs from programming, to QA/QC testing, to project management and to management. 
 
-As I was looking at how I can get back into programming in 2014, I figured the hottest growth area was mobile.  
-And since I was not tied to iOS or Android, I figured why not do both?  My son started making apps using [libGDX/Java](https://libgdx.com/) so I started learning
+As I was looking at how I can get back into programming in 2014, I figured the hottest growth area was mobile.  And since I was not tied to iOS or Android, I figured why not do both?  My son started making apps using [libGDX/Java](https://libgdx.com/) so I started learning
 and building apps and built couple of prototypes for my work.  And then I finally got a real job doing Cross-Platform development starting with [Cocos2d/C/C++](https://www.cocos.com/en/) and then moved onto [Qt](https://www.qt.io/). 
 I thought that with Microsoft buying [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), C# would be the next platform of choice and I fortunately got a job in 2017 to develop Xamarin/C# apps.
 
