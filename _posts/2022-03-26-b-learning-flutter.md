@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Learning Flutter/Dart
+date: 2022-03-26 12:00:00 -08:00
 ---
 
 I found this article [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/) in my news feed at news.google.com and it got me looking into Flutter.  After reading around a bit, I signed for [Introduction to Flutter](https://www.appbrewery.co/p/intro-to-flutter) by Angela Yu and found it to be a good tutorial for someone new to mobile and cross-platform development.  The only negative is that the course is out of date and you get some warnings and errors with following some of the examples using the latest Android Studio and Flutter/Dart.
