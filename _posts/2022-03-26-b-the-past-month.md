@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Part 2 of Learning Flutter/Dart
-date: 2022-03-27 10:00:00 -08:00
 ---
 
 
